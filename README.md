@@ -18,3 +18,5 @@ Follow this guide: https://github.com/rajkosto/TegraRcmSmash to reinstall the dr
 
 
 ## 'nosigchk'
+Wrong sigpatches installed. 
+Those made the trick for me: 'https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/page-205#post-10517797'
