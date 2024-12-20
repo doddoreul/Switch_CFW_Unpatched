@@ -8,8 +8,7 @@ Push Power button
 Release + button
 
 ## Switch in RCM mode, not detected by TegraRCM
-Follow this guide: https://github.com/rajkosto/TegraRcmSmash to reinstall the drivers.
-As quoted:
+Follow this guide: https://github.com/rajkosto/TegraRcmSmash to reinstall the drivers:
 ### Driver setup
  1. Get your Switch into RCM mode and plug it into your Windows PC. It should show up somewhere (like Device manager) as "APX"
  2. Download and run Zadig driver installer from https://zadig.akeo.ie/
